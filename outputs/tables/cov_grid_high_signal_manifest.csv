@@ -1,0 +1,4 @@
+output,rows,n_mc,max_base_rows_per_protocol,target_beta,seed
+cov_grid_high_signal_reliability_results.csv,57600,2000,40,3.0,20260524
+tables/cov_grid_high_signal_decision_flip_summary.csv,27,2000,40,3.0,20260524
+figures/fig_r11_cov_grid_decision_change_heatmap.png,1,2000,40,3.0,20260524

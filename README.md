@@ -31,10 +31,14 @@ This package does not claim to provide a design-code replacement, field-validate
 - journal submission files;
 - credentials or local environment secrets.
 
-## Intended public repository
+## Public repository and release
 
-Intended GitHub remote:
+GitHub repository:
 
 `https://github.com/Johnsonlijian/ConcreteStrength-ReliabilityScreening`
 
-Repository creation and push are human-only actions.
+Versioned release:
+
+`https://github.com/Johnsonlijian/ConcreteStrength-ReliabilityScreening/releases/tag/v0.1.0`
+
+No Zenodo or equivalent archival DOI has been minted yet. If a DOI is required, archive the GitHub release through Zenodo or another trusted repository and update `CITATION.cff` after the real DOI exists.

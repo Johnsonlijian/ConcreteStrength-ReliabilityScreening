@@ -37,8 +37,8 @@ GitHub repository:
 
 `https://github.com/Johnsonlijian/ConcreteStrength-ReliabilityScreening`
 
-Versioned release:
+Current recommended release:
 
-`https://github.com/Johnsonlijian/ConcreteStrength-ReliabilityScreening/releases/tag/v0.1.0`
+`https://github.com/Johnsonlijian/ConcreteStrength-ReliabilityScreening/releases/tag/v0.1.1`
 
 No Zenodo or equivalent archival DOI has been minted yet. If a DOI is required, archive the GitHub release through Zenodo or another trusted repository and update `CITATION.cff` after the real DOI exists.

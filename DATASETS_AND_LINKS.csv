@@ -1,0 +1,7 @@
+id,name,type,url,doi,redistribution_status,notes
+uci_concrete,UCI Concrete Compressive Strength dataset,public dataset,https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength,10.24432/C5PK67,link-only,"Raw data should be downloaded from UCI by users; do not redistribute here unless license permits."
+yeh_1998,Yeh 1998 concrete-strength source paper,article,https://doi.org/10.1016/S0008-8846(98)00165-3,10.1016/S0008-8846(98)00165-3,citation-only,"Original concrete-strength source paper."
+aci_318_19,ACI CODE-318-19(22),standard,https://www.concrete.org/store/productdetail.aspx?ItemID=318U19,,citation-only,"Official code source; exact equations/pages must be checked in full text."
+iso_2394,ISO 2394:2015,standard,https://www.iso.org/standard/58036.html,,citation-only,"General reliability framing; not used to assign beta=3.0 target."
+jcss_pmc,JCSS Probabilistic Model Code,technical resource,https://www.jcss-lc.org/jcss-probabilistic-model-code/,,citation-only,"Candidate reliability/stochastic-model source; exact sections must be checked before final claims."
+concretexai,ConcreteXAI candidate external dataset,external candidate,https://doi.org/10.1016/j.dib.2024.110218,10.1016/j.dib.2024.110218,not-included,"Candidate external robustness dataset; not merged in current analysis."

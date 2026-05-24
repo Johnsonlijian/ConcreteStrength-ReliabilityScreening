@@ -1,0 +1,22 @@
+# Local/private files
+.env
+*.log
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw third-party data are intentionally excluded.
+data/
+raw_data/
+downloaded_data/
+
+# Active submission/private files are intentionally excluded.
+manuscripts/
+cover_letters/
+reviewer_responses/
+author_private/
+funding_private/
+
+# Large generated intermediates
+outputs/intermediate/
+*.parquet

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "ConcreteStrength Reliability Screening"
+message: "If you use this code or derived outputs, please cite the associated manuscript and this reproducibility package."
+type: software
+authors:
+  - family-names: "TBD"
+    given-names: "TBD"
+version: "0.1.0"
+date-released: "2026-05-24"
+repository-code: "https://github.com/Johnsonlijian/ConcreteStrength-ReliabilityScreening"
+abstract: "Reproducibility package for leakage-controlled uncertainty propagation from machine-learning concrete-strength prediction to analytical RC reliability-screening decisions."
